@@ -1,0 +1,101 @@
+﻿Dati accesso servizio clienti e posta
+UN: teopz1989@gmail.com
+PW:Mascherine123
+
+
+Dati accesso CREARTE
+
+
+pannello plesk
+
+UN:matpa3
+
+PW:Mascherine123
+
+
+Accesso al pannello Parallels Plesk®:
+
+Indirizzo: 	https://linuxboard16.kqi.it
+
+
+Credenziali FTP:
+Host: 	cooperativacrearte.it
+
+User-ID: 	cooperativac
+
+Password: 	cP6$jR8%rP
+
+
+Statistiche:
+Host: 	cooperativacrearte.it/plesk-stat
+
+User-ID: 	cooperativac
+
+Password: 	cP6$jR8%rP
+ 
+
+Dominio cooperativacrearte.it
+
+
+Password per il trasferimento (solo su IT): Mascherine123
+
+
+Accesso al pannello DCP (Domain - Control - Panel):
+
+Il DCP o Domain Control Panel è il tool web che consente di modificare i puntamenti DNS dei domini acquistati con Kolst.
+
+Puoi accedere al DCP tramite le stesse credenziali che usi per accedere all'Area Clienti, DCP è disponibile direttamente all'url: http://dcp.kpnqwest.it.
+ 
+ 
+
+
+My Mail Server
+
+Quota mymailserver attiva: 1,00 GB
+
+
+Desideriamo ricordarti che puoi ampliare la tua quota mymailserver in qualsiasi momento, dall'Area Clienti KOLST.
+
+
+Amministrazione delle caselle di posta
+
+
+Attraverso il tool Web Mailadmin puoi creare e assegnare nuovi indirizzi email, impostare e gestire le credenziali degli indirizzi.
+
+
+Puoi da subito accedere al tool e attivare gli indirizzi inclusi nel tuo ordine.
+
+
+Ti ricordiamo che puoi accedere a Mailadmin utilizzando le credenziali di accesso all'Area Clienti Kolst. 
+Mailadmin è disponibile direttamente all'url: http://mailadmin.mailserver.it
+
+
+Webmail
+
+Grazie a Webmail puoi gestire la tua mailbox, inviare e ricevere messaggi di posta elettronica direttamente da web. Puoi accedere a Webmail dall'Area Clienti Kolst o direttamente tramite l'url: 
+http://webmail.mailserver.it
+
+
+Server di posta
+Pop - pop.mailserver.it
+Imap - imap.mailserver.it
+
+Smtp - smtp-out.mailserver.it 
+*
+
+*Attenzione l'accesso SMTP è garantito solo tramite autenticazione con username e password della mailbox.
+ 
+ 
+
+
+
+Ti ringraziamo per aver scelto i nostri servizi.
+
+
+Ti ricordiamo che il servizio di assistenza tecnica è attivo dal Lunedì al venerdì, dalle 09:00 alle 19:00, puoi richiedere assistenza utilizzando l'opzione "Segnala un problema" presente nell'Area Clienti KOLST.
+
+
+Cordiali saluti
+
+
+Il Team KOLST
